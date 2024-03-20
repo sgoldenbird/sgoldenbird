@@ -29,7 +29,7 @@ I am currently seeking new opportunities in the job market.
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-url) 
 - [![Portfolio](https://img.shields.io/badge/-Portfolio-32435f?style=flat-square&logo=globe&logoColor=white)](https://your-portfolio-url.com)
-- [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&color=white)](mailto:your-email@example.com)
+- [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 
 <img align="right" width="800" height="200" src="https://github.com/sgoldenbird/sgoldenbird/assets/141334764/8bc762b9-a1e1-4120-97bb-6a158ab8215e">
