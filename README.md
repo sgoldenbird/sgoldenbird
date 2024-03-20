@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=25&pause=1000&color=09405F&background=e8b069&center=true&vCenter=true&random=false&width=800&lines=Hello+guys%2C+I'm+Sienna.+Welcome+to+my+page👋;I'm+a+passionate+learner+and+creator+in+Frontend.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=25&pause=1000&color=09405F&background=e8b069&center=true&vCenter=true&random=false&width=800&lines=Hello+guys%2C+I'm+Sienna.+Welcome+to+my+page;I'm+a+passionate+learner+and+creator+in+Frontend.;)](https://git.io/typing-svg)
 <br /> Welcome to my GitHub profile! Here you'll find some of my projects and contributions.
 
 ## :open_file_folder: About Me
@@ -32,7 +32,7 @@ I am currently seeking new opportunities in the job market.
 - [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 
-<img align="right" width="800" height="200" src="https://github.com/sgoldenbird/sgoldenbird/assets/141334764/8bc762b9-a1e1-4120-97bb-6a158ab8215e">
+<img align="right" style="max-width=100%; height=auto;" src="https://github.com/sgoldenbird/sgoldenbird/assets/141334764/8bc762b9-a1e1-4120-97bb-6a158ab8215e">
 
 
 
