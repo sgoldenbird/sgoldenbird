@@ -27,7 +27,7 @@ Feel free to check out my [GitHub repositories](link-to-your-github) for more pr
 I am currently seeking new opportunities in the job market.
 <br/> **Please feel free to contact me with any job offers or opportunities😊**
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-url) 
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com) 
 - [![Portfolio](https://img.shields.io/badge/-Portfolio-32435f?style=flat-square&logo=globe&logoColor=white)](https://your-portfolio-url.com)
 - [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
