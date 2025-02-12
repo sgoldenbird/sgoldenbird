@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=25&pause=1000&color=09405F&background=e8b069&center=true&vCenter=true&random=false&width=800&lines=Hello+guys%2C+I'm+Sienna.+I'm+a+Frontend+Developer.+I'm+a+passionate+learner.+Welcome+to+my+page.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=25&pause=1000&color=09405F&background=e8b069&center=true&vCenter=true&random=false&width=800&lines=Hello+guys%2C+I'm+Sienna.;+I'm+a+Frontend+Developer.;+I'm+a+passionate+learner.;+Welcome+to+my+page.;)](https://git.io/typing-svg)
 <br /> Welcome to my GitHub profile! Here you'll find some of my projects and contributions.
 
 ## :open_file_folder: About Me
@@ -8,24 +8,36 @@ In my journey to becoming a versatile frontend developer, I eagerly embrace new 
 
 - 💻 Frontend Developer
 - 🌱 Currently learning frontend technologies and CS
-- 🎨 Enthusiastic about UI/UX
+- 😉 Enthusiastic about UI/UX
 - 📚 Love to share knowledge and collaborate with others
 
 ## :open_file_folder: Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,git,github,powershell,vscode,vim)](https://skillicons.dev)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/-React_Router-61DAFB?style=for-the-badge&logo=react-router&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## :open_file_folder: Projects
 
 Here are some of my projects that I'm proud of.
 
-- [Project 1](link-to-project-1) - Short description.
+- [Fresh Trash](link-to-project-1) - Short description.
 - [Project 2](link-to-project-2) - Short description.
 - [Project 3](link-to-project-3) - Short description.
 
 Feel free to check out my [GitHub repositories](link-to-your-github) for more projects.
 
-## :open_file_folder: Get in Touch
+## :open_file_folder: Contact
 
 I am currently seeking new opportunities in the job market.
 <br/> **Please feel free to contact me with any job offers or opportunities😊**
