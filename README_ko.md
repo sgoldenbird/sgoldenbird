@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=25&pause=1000&color=09405F&background=e8b069&center=true&vCenter=true&random=false&width=800&lines=프론트엔드+개발자%2C+송시은+입니다.;+I'm+a+Frontend+Developer.;+I'm+a+passionate+learner.;+Welcome+to+my+page.;)](https://git.io/typing-svg)
-
 <br /> Welcome to my GitHub profile! Here you'll find some of my projects and contributions.
 
 ## :open_file_folder: ABOUT ME
