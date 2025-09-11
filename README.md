@@ -9,14 +9,14 @@
 
 ## :open_file_folder: ABOUT ME
 
-I'm a passionate frontend developer with a love for crafting beautiful and functional user interfaces.
-<br/>I find great joy in understanding the principles, improving necessary aspects with technology, and turning ideas into reality.  
-<br/>I have been developing user-centered web applications using JavaScript, React, TypeScript, Next.js, and Tailwind CSS.
-<br/>In my journey to becoming a versatile frontend developer, I eagerly embrace new challenges and continuously expand my skill set to deliver creative and impactful solutions.
+I'm a frontend developer who carefully explores diverse possibilities and is deeply committed to creating exceptional user experiences.
+<br/>I enjoy understanding principles, applying technology to improve what’s necessary, and turning ideas into reality.
+<br/>With JavaScript, React, TypeScript, Next.js, and Tailwind CSS, I build user-centered web applications that balance functionality and design.
+<br/>I embrace challenges with curiosity and continuously expand my skills to deliver creative and meaningful solutions.
 
 **Key Strengths**
 
-- **React:** Developed a user-friendly marketplace platform, _Fresh Trash_
+- **React:** Developed user-friendly marketplace platforms such as _RoamREady_, _Kabana_
 - **Problem Solving:** Creative problem-solving based on deep understanding of principles
 - **GitHub & Notion:** Efficient project management using collaboration tools
 - **English Communication:** Ability to collaborate and communicate in English
@@ -30,45 +30,38 @@ I'm a passionate frontend developer with a love for crafting beautiful and funct
 ![JavaScript](https://img.shields.io/badge/-JavaScript-406882?style=flat&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-406882?style=flat&logo=react&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React_Router-406882?style=flat&logo=react-router&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-406882?style=flat&logo=react-query&logoColor=white)
+![Tanstack Query](https://img.shields.io/badge/-Tanstack_Query-406882?style=flat&logo=react-query&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-406882?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-406882?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-406882?style=flat&logo=node.js&logoColor=white)
-
-![Redux](https://img.shields.io/badge/-Redux-406882?style=flat&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-406882?style=flat&logo=zustand&logoColor=white)
-![Jotai](https://img.shields.io/badge/-Jotai-406882?style=flat&logo=jotai&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/-GitHub-406882?style=flat&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-406882?style=flat&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-406882?style=flat&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-406882?style=flat&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-406882?style=flat&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-406882?style=flat&logo=figma&logoColor=white)
 
-![Firebase](https://img.shields.io/badge/-Firebase-406882?style=flat&logo=firebase&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-406882?style=flat&logo=vite&logoColor=white)
-
-![Vercel](https://img.shields.io/badge/-Vercel-406882?style=flat&logo=vercel&logoColor=white)
-
 ## :open_file_folder: PROJECTS
 
-Here are some of my projects that I'm proud of. I will continue to add more as I build new ones.  
-</br>Click on each project to check the README for more details.
+Here are some of my projects, and I’ll keep adding more as I create new ones.  
+Click each project to view its README for more details.
 
-- [Fresh Trash](https://github.com/fresh-trash-project/fresh-trash-frontend/blob/develop/README.md) - A second-hand goods trading web application
-- [Webshop](https://github.com/sgoldenbird/webshop/blob/main/README.md) - An e-commerce website
-- [Project 3](link-to-project-3) - Coming Soon.
+- [RoamReady](https://github.com/codeit-FE-15-Part4-Team1/RoamReady) - Activity booking platform
+- [Kabana](https://github.com/Kabana-FE/Kabana) - Task management Kanban board web app
+- [StarSync](https://github.com/StarSync-FE/StarSync) - Fandom voting and sponsorship platform
+- [FreshTrash](https://github.com/fresh-trash-project) - Secondhand goods marketplace web app
 
 ## :open_file_folder: CONTACT
 
 ### I am looking for opportunities to grow and take on new challenges.
 
 I am currently seeking new opportunities in the job market.
-<br/>I am committed to working with creativity and responsibility.  
-Check my **resume and portfolio** for more details about my experience.  
-**Feel free to contact me with any job offers or opportunities😉😊**
+<br/>I am dedicated to bringing both creativity and responsibility to my work.
+<br/>You can find more details about my experience in my resume and portfolio.
+<br/>Feel free to reach out with any opportunities or collaborations 😉😊
 
 - [![Portfolio](https://img.shields.io/badge/-Portfolio-406882?style=flat-square&logo=globe&logoColor=white)](https://portfolio-js-vanilla.vercel.app/)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-406882?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sieun-song)
-- [![Notion](https://img.shields.io/badge/-Notion-406882?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so)
-- [![Gmail](https://img.shields.io/badge/-Gmail-406882?style=flat-square&logo=gmail&logoColor=white)](mailto:sgoldenbird@gmail.com)
+- [![Gmail](https://img.shields.io/badge/-Gmail-406882?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sgoldenbird@gmail.com)
 
 <img align="right" style="max-width=100%; height=auto;" src="https://github.com/sgoldenbird/sgoldenbird/assets/141334764/8bc762b9-a1e1-4120-97bb-6a158ab8215e">
