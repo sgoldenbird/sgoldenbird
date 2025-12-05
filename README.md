@@ -22,6 +22,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-406882?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-406882?style=flat&logo=next.js&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-406882?style=flat&logo=zustand&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-406882?style=flat&logo=zod&logoColor=white)
 
 ![Vite](https://img.shields.io/badge/-Vite-406882?style=flat&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-406882?style=flat&logo=vercel&logoColor=white)
