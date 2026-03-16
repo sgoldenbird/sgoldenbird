@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=40&pause=1000&color=406882&background=FFD166&center=true&vCenter=true&random=false&width=1000&height=80&weight=700&lines=프론트엔드+개발자%2C+송시은입니다.;+상황에+맞는+최선의+선택을+고민하며;+필요한+기능을+만들고;+시스템을+설계하는+과정을+즐깁니다.;+더+나은+UX를+고민합니다.;+Welcome+to+my+page.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=40&pause=1000&color=406882&background=FFD166&center=true&vCenter=true&random=false&width=1000&height=80&weight=700&lines=프론트엔드+개발자%2C+송시은입니다.;+상황에+맞는+최선의+선택을+고민하고;+필요한+기능을+만들고;+시스템을+설계하는+과정을+즐깁니다.;+더+나은+UX를+고민합니다.;+Welcome+to+my+page.;)](https://git.io/typing-svg)
 
 ### 개발자의 눈과 사용자의 마음
 
