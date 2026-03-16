@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=40&pause=1000&color=406882&background=FFD166&center=true&vCenter=true&random=false&width=1000&height=80&weight=700&lines=프론트엔드+개발자%2C+송시은입니다.;+지속적인+학습을+통해;+문제+해결+역량을+강화하고+있습니다.;+Welcome+to+my+page.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=40&pause=1000&color=406882&background=FFD166&center=true&vCenter=true&random=false&width=1000&height=80&weight=700&lines=프론트엔드+개발자%2C+송시은입니다.;+상황에+맞는+최선의+선택을+고민하며;+필요한+기능을+만들고;+시스템을+설계하는+과정을+즐깁니다.;+더+나은+UX를+고민합니다.;+Welcome+to+my+page.;)](https://git.io/typing-svg)
 
-### 개발자의 눈과 사용자의 마음으로 상황에 맞는 최선의 선택을 고민하고, 다각도로 고려하며 UX 향상에 집중합니다.
+### 개발자의 눈과 사용자의 마음
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFD166?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/sieun-song)
 [![Gmail](https://img.shields.io/badge/-Gmail-FFD166?style=for-the-badge&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sgoldenbird@gmail.com)
