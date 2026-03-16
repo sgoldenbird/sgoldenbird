@@ -1,7 +1,7 @@
 [![English](https://img.shields.io/badge/English-language-%23406882)](README.md)
 [![한국어](https://img.shields.io/badge/한국어-language-%23406882)](README_ko.md)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=1000&color=406882&background=FFD166&center=true&vCenter=true&random=false&width=1000&height=80&weight=700&lines=Hello+guys%2C+I'm+Sienna.;+I'm+a+Frontend+Developer.;+I'm+a+passionate+learner.;+Welcome+to+my+page.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=1000&color=406882&background=FFD166&center=true&vCenter=true&random=false&width=1000&height=80&weight=700&lines=Hello+guys%2C+I'm+Sienna.;+I'm+a+Frontend+Developer.;+I+consider+the+best+choices+for+each+situation;+I+enjoy+building+needed+features+and+designing+systems;+I'm+a+passionate+learner.;+Welcome+to+my+page.;)](https://git.io/typing-svg)
 
 ## Developer's eye & User's heart
 
