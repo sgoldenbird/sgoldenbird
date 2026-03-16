@@ -5,7 +5,9 @@
 
 ## Developer's eye & User's heart
 
+<!--
 ### I focus on enhancing the user experience by making well-balanced decisions tailored to each situation
+-->
 
 <!--
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFD166?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/sieun-song)
