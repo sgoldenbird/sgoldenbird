@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFD166?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/sieun-song)
 [![Gmail](https://img.shields.io/badge/-Gmail-FFD166?style=for-the-badge&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sgoldenbird@gmail.com)
 -->
-
+<!--
 ![HTML](https://img.shields.io/badge/-HTML-406882?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-406882?style=flat&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-406882?style=flat&logo=tailwindcss&logoColor=white)
@@ -31,7 +31,7 @@
 ![Git](https://img.shields.io/badge/-Git-406882?style=flat&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-406882?style=flat&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-406882?style=flat&logo=figma&logoColor=white)
-
+-->
 <!--
 - [RoamReady](https://github.com/codeit-FE-15-Part4-Team1/RoamReady) - Activity booking platform
 - [Kabana](https://github.com/Kabana-FE/Kabana) - Task management Kanban board web app
