@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFD166?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/sieun-song)
 [![Gmail](https://img.shields.io/badge/-Gmail-FFD166?style=for-the-badge&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sgoldenbird@gmail.com)
-
+<!--
 ![HTML](https://img.shields.io/badge/-HTML-406882?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-406882?style=flat&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-406882?style=flat&logo=tailwindcss&logoColor=white)
@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/-Git-406882?style=flat&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-406882?style=flat&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-406882?style=flat&logo=figma&logoColor=white)
-
+-->
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-406882?style=flat&logo=node.js&logoColor=white) -->
 
 <!-- ![Redux](https://img.shields.io/badge/-Redux-406882?style=flat&logo=redux&logoColor=white) -->
